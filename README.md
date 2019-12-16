@@ -52,6 +52,7 @@ Before looking the connections, go through hardware components below.
     * Connect n5 pin of motor driver to Arduino 6 pin.
     * Connect ground pin of motor driver to Arduino ground pin.
     * Finally, establish connections between Vcc of the motor and positive terminal of the battery, ground pin to negative       terminal of battery, and motor to motor driver respectively.
+    You can use any four digital pins (replacing 3,4,5,6 pins).
 
 - ## Working
 
