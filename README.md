@@ -82,7 +82,7 @@ The primary stage of this project is speech to text conversion, which is achieve
   
 Arduino Uno is used because we can mount the motor driver shield in it. It is also cheap, easy to use and acquires less  space as we have to place everything on the chassis.
 
-<img src="Images/arduino UNO.jpg" width="400" height="200">
+<img src="Images/Arduino UNO.jpg" width="400" height="200">
 
   2. Motor Driver L298N
   
